@@ -1,4 +1,4 @@
-# Ejercicio_2--LAYOUT-
+# Ejercicio_2--LAYOUT
 
 ## Ejercicio practicando como una hacer un layout más complicado  y con más secciones
 
