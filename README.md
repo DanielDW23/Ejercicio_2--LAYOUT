@@ -5,7 +5,8 @@
 
 <p align="center" >
  
- <img src="https://github.com/DanielDW23/Ejercicio_2--LAYAOUT-/assets/126791645/2f76928e-512c-4727-889a-3fb478f8f3e6" width="850" />
+ <img src="https://github.com/DanielDW23/Ejercicio_2--LAYOUT/assets/126791645/e19a72b1-1f4b-444f-9d36-644219d1db50" width="850" />
   
   
 </p>
+
